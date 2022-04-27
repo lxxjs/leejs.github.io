@@ -1,13 +1,12 @@
-<!DOCTYPE html>
 <html>
     <head>
         <h1>
             Jongseo Lee
         </h1>
-            <h2> A student of Tsinghua University </h2>
-            <h3><a href="http://naver.com">Naver</a></h3>
+        <h2> A student of <a href = "https://www.tsinghua.edu.cn/">Tsinghua University</a></h2>
     </head>
     <body>
-        This is my own web page !
+        Hello World !
+        This is my web page.
     </body>
 </html>
